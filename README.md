@@ -1,2 +1,2 @@
-# hetero8.github.io
-hetero8 blog
+# hetero8
+tech, game, diving, ...
