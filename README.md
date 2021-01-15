@@ -1,2 +1,2 @@
-# hetero8
+# hetero8.
 tech, game, diving, ...
